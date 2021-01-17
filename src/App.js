@@ -34,4 +34,5 @@ const Display = ({ value }) => (
     <h1>{value}</h1>
   </div>
 );
+
 export default App;
